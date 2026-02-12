@@ -1,16 +1,17 @@
-## Hi there 👋
+## Introduction
+Hello, my name is Rise. I am currently an undergraduate student in the field of Computer Science.
 
-<!--
-**Rise-A/Rise-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skillset
 
-Here are some ideas to get you started:
+### Programming Languages
+I am most proficient with:
+* Java
+* C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+However, I also have some experience with:
+* Python
+
+### Applications
+I have experience with:
+* Unity
+* Blender
