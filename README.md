@@ -12,6 +12,5 @@ However, I also have some experience with:
 * Python
 
 ### Applications
-I have experience with:
 * Unity
 * Blender
