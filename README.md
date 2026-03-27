@@ -7,7 +7,7 @@ Hello, my name is Rise. I am currently an undergraduate student in the field of 
 * Java
 * C#
 * Python
-* SQL
+* MySQL
 
 ### Applications
 * Unity
