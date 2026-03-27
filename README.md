@@ -6,7 +6,6 @@ Hello, my name is Rise. I am currently an undergraduate student in the field of 
 ### Programming Languages
 * Java
 * C#
-* Python
 * MySQL
 
 ### Applications
