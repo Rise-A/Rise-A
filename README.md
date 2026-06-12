@@ -1,5 +1,5 @@
 ## Introduction
-Current undergraduate student in the field of Computer Science.
+Full-stack developer.
 
 ## Skillset
 
@@ -10,6 +10,5 @@ Current undergraduate student in the field of Computer Science.
 
 ### Applications
 * Unity
-* Blender
 * GIMP
 * Figma
